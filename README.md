@@ -1,2 +1,0 @@
-# Emissiveproject
- Emissive lighting project
